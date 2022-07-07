@@ -2,10 +2,10 @@
 A cost-benefit analysis model to assess the economic convenience of photovoltaic-green roofs.
 
 # Author
-Francesco Cruz Torres
-Luxembourg Institute of Science and Technology
-TU Delft
-Politecnico di Milano
+Francesco Cruz Torres  
+_Luxembourg Institute of Science and Technology, Luxembourg  
+TU Delft, the Netherlands  
+Politecnico di Milano, Italy_
 
 # License
 ![68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38387833312e706e67](https://user-images.githubusercontent.com/64637656/177593611-eef69211-c8e1-49c6-95cb-f7d1d1634095.png)
